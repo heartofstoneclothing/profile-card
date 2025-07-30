@@ -6,6 +6,12 @@ body {
   align-items: center;
   height: 100vh;
 }
+header {
+  background: #222;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
 .card {
   background: white;
   border-radius: 1rem;
