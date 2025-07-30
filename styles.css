@@ -25,6 +25,7 @@ main {
   text-align: center;
   padding: 2rem;
   width: 300px;
+  color: crimson;
 }
 .about {
   background: rgba(255, 255, 255, 0.8);
@@ -45,6 +46,13 @@ main {
   background: rgba(255, 255, 255, 0.8);
   padding: 1rem;
   border-radius: 0.5rem;
+}
+h1,
+h2,
+h3 {
+  color: #000000;
+  margin: 0.5rem 0;
+  text-decoration: underline;
 }
 .avatar {
   width: 100px;
